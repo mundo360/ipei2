@@ -1,0 +1,139 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_3C556AD3_2309_5DE6_416F_489603C53E6C.source = https://linktr.ee/maisipei
+LinkBehaviour_3487B5D0_2307_F7E2_41B6_EFB6949AC35B.source = https://linktr.ee/maisipei
+LinkBehaviour_E33554DB_C209_2ADB_41DA_A035496B5EA4.source = https://wa.link/6xttjw
+LinkBehaviour_A1ED29F9_8D8C_F42C_41CE_8E89D7A45E54.source = https://wa.me/5561992715715?text=Ol%C3%A1,+eu+estava+no+site+e+gostaria+de+agendar+uma+consulta
+LinkBehaviour_A7C73D11_8D9C_2DFC_41DB_C223243839A7.source = https://wa.me/5582981023740?text=Ol%C3%A1,+eu+estava+no+site+e+gostaria+de+agendar+uma+consulta
+LinkBehaviour_A18FAA46_8D8C_1462_41DF_A40A9360DA41.source = https://wa.me/5582981023740?text=Ol%C3%A1,+eu+estava+no+site+e+gostaria+de+agendar+uma+consulta
+LinkBehaviour_E3C05C45_C208_D92E_41DA_4B523D3D8B50.source = https://wa.me/5582981023740?text=Ol%C3%A1,+eu+estava+no+site+e+gostaria+de+agendar+uma+consulta
+WebFrame_A521021F_8D8C_37E4_41D3_AAB5C1FB642F.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3933.2421100012943!2d-35.72249118614261!3d-9.660342694250327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7014512d26b2ef9%3A0x30a6019acb01b235!2sIPEI%20-%20Instituto%20de%20Psicologia%20%26%20Especialidades%20Integradas!5e0!3m2!1spt-BR!2sbr!4v1698075499407!5m2!1spt-BR!2sbr
+WebFrame_A56BEC6D_8D84_2C24_41E1_9F7905E877DD.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3933.2421100012943!2d-35.72249118614261!3d-9.660342694250327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7014512d26b2ef9%3A0x30a6019acb01b235!2sIPEI%20-%20Instituto%20de%20Psicologia%20%26%20Especialidades%20Integradas!5e0!3m2!1spt-BR!2sbr!4v1698075499407!5m2!1spt-BR!2sbr
+LinkBehaviour_A62EDBFF_8D8C_3424_41E1_026CE3235B71.source = https://www.instagram.com/maisipei/?hl=pt-br
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_7602AB74_5D06_20E6_41CB_B030EF2A5B78.text = Acesso 1º Andar
+HotspotPanoramaOverlayTextImage_76387C35_5D0B_E066_41C3_633072E47F5A.text = Acesso Térreo
+HotspotPanoramaOverlayTextImage_96FD2A5D_806D_E37C_41DA_39F35C550045.text = Gire a foto para conhecer nosso ambiente
+HotspotPanoramaOverlayTextImage_92C1A4B6_8075_E7CC_41DA_33171825FE3F.text = Instruções
+HotspotPanoramaOverlayTextImage_4A6C9C30_5D0E_207A_41C7_E298F06B44C4.text = Salas \
+ 1º andar
+HotspotPanoramaOverlayTextImage_4A5397C9_5D0A_602B_41C8_263EA998D048.text = Salas \
+Térreo
+HotspotPanoramaOverlayTextImage_7D183F58_5D06_602C_41D0_98B6B94FAD52.text = Salas 9 e 10
+HotspotPanoramaOverlayTextImage_44969C70_5D06_E0FB_41C0_CE4DB9F715FD.text = Salas de Atendimento
+HotspotPanoramaOverlayTextImage_95DA0473_807D_A744_41D8_A44F33F8417E.text = Visita Virtual
+
+## Media
+
+### Audio
+audiores_9DACC7D5_805B_A14C_41D9_8D6C43BEA620.mp3Url = media/audio_9639275B_8074_E144_41A0_B4CA4400B4F1_pt.mp3
+
+### Image
+imlevel_9C28CD6D_805B_A15C_41DE_64FF3422010F.url = media/panorama_4D19846B_5D06_E0E9_41B9_03240373F0C5_HS_0tacqopm_pt.png
+imlevel_9C383CDA_805B_A744_41A0_9B125F79937A.url = media/panorama_4D19846B_5D06_E0E9_41B9_03240373F0C5_HS_ocgxeofy_pt.png
+imlevel_6CDB045A_5D09_E022_41D6_9B54EF9D858F.url = media/panorama_52D31E8C_5D06_202F_41D2_D136EF2988D5_HS_cidpres8_pt.png
+imlevel_6CDBF487_5D09_E022_41A9_EB27741E9111.url = media/panorama_52D379D5_5D06_6039_41A3_B00F780697D0_HS_l2qn3bl1_pt.png
+imlevel_6C1323CE_5D09_E023_41CD_9DE1A0943799.url = media/panorama_52D419BD_5D06_6069_41B1_5AEB8FFDAC4A_HS_bduz9anr_pt.png
+imlevel_6C1243A0_5D09_E01E_41D4_63201E1E744D.url = media/panorama_52D4236F_5D06_E0E9_41D4_F6804DE237B3_HS_2wtfpimx_pt.png
+imlevel_6C31A2CF_5D09_E022_41AB_323510302C56.url = media/panorama_52D4236F_5D06_E0E9_41D4_F6804DE237B3_HS_ivecj05k_pt.png
+imlevel_9283E876_8186_5E53_41DE_735CA23BE54A.url = media/panorama_52D4236F_5D06_E0E9_41D4_F6804DE237B3_HS_p0ui5j42_pt.png
+imlevel_6CC5D42A_5D09_E062_41C1_842AE5E3B9CB.url = media/panorama_52D5C12B_5D06_2068_41B8_CA13A1E561C4_HS_oc9v9myl_pt.png
+
+### Title
+album_8F811E1F_8054_62FC_41D0_D7940D8943E8_0.label = Diana Pose 02
+panorama_52D42AFA_5D06_21EB_41CE_6139F94C7471.label = Escada-1andar-4228
+panorama_4D19846B_5D06_E0E9_41B9_03240373F0C5.label = Fachada-3903
+panorama_52D4F6B5_5D06_2079_41B8_A538281FDA4E.label = IMG_20231021_104356_00_merged-edit
+panorama_52D44DAE_5D06_606B_41D6_D59D905C47E4.label = IMG_20231021_104530_00_merged-edit
+panorama_52D419BD_5D06_6069_41B1_5AEB8FFDAC4A.label = IMG_20231021_104609_00_merged-edit
+panorama_52D4558F_5D06_2029_41C2_141A4071C0E0.label = IMG_20231021_104645_00_merged-edit
+panorama_52D5C12B_5D06_2068_41B8_CA13A1E561C4.label = IMG_20231021_104726_00_merged-edit
+panorama_52EDBC80_5D06_2017_41D7_3943F4BDB27C.label = IMG_20231021_104759_00_merged-edit
+panorama_52D4586A_5D07_E0EB_41D0_4569054F0A2A.label = IMG_20231021_104908_00_merged-edit
+panorama_52D5F435_5D07_E079_41C5_4BD1139AAD71.label = IMG_20231021_104937_00_merged-edit
+panorama_52D42F4C_5D07_E02F_41C0_6899734A1529.label = IMG_20231021_105008_00_merged-edit
+panorama_52D46A44_5D06_201F_41BC_757C9C6AC636.label = IMG_20231021_105123_00_merged-edit
+panorama_52D45589_5D06_2029_41A9_01F8C638AA35.label = IMG_20231021_105423_00_merged-edit
+panorama_52D47081_5D06_6019_41A0_1C3D7A1A9CC7.label = IMG_20231021_105558_00_merged-edit
+panorama_52ECDBD4_5D06_6038_41D4_4A6AB37C711E.label = IMG_20231021_105649_00_merged-edit
+panorama_52D43708_5D06_6017_41D0_F0FBB26FB323.label = IMG_20231021_105836_00_merged-edit
+panorama_52D4B1EE_5D06_23EB_41CE_6F9C7A30D70A.label = IMG_20231021_105927_00_merged-edit
+panorama_52D4BDF9_5D06_23E9_41C8_ACDF25756540.label = IMG_20231021_110002_00_merged-edit
+panorama_52D48936_5D06_207B_41C5_60F8C71D064D.label = IMG_20231021_110053_00_merged-edit
+panorama_52EB8470_5D06_E0F7_41CF_ECA04D220482.label = IMG_20231021_110219_00_merged-edit
+panorama_52D39FF6_5D06_FFFB_41D2_2B674BA81BE1.label = IMG_20231021_110308_00_merged-edit
+panorama_52EBBBAE_5D06_E06B_41D3_261B657387F2.label = IMG_20231021_110459_00_merged-edit
+panorama_52D3073D_5D06_2069_419A_C43CA07F2F4B.label = IMG_20231021_110708_00_merged-edit
+panorama_52D38328_5D06_2017_41C2_928863B115F1.label = IMG_20231021_110858_00_merged-edit
+panorama_52D31E8C_5D06_202F_41D2_D136EF2988D5.label = IMG_20231021_110949_00_merged-edit
+panorama_52D379D5_5D06_6039_41A3_B00F780697D0.label = IMG_20231021_111053_00_merged-edit
+panorama_52EAA53D_5D06_6069_41C8_0172D18DEC26.label = IMG_20231021_111136_00_merged-edit
+panorama_52D300A1_5D06_2019_41A7_F63995370727.label = IMG_20231021_111321_00_merged-edit
+panorama_52D2CC05_5D06_2019_419F_1EC6530EBAD4.label = IMG_20231021_111441_00_merged-edit
+panorama_52D2D759_5D06_2029_41B4_70CFF63BD048.label = IMG_20231021_111533_00_merged-edit
+panorama_52CD82CF_5D19_E028_41D1_F71A00E9A163.label = IMG_20231021_111734_00_merged-edit
+panorama_52F59E23_5D19_E018_41AB_EABB874F6086.label = IMG_20231021_111951_00_merged-edit
+panorama_52CDD944_5D19_E01F_41CA_71FB9C7609D9.label = IMG_20231021_112046_00_merged-edit
+panorama_52F5A4A8_5D1A_2017_41CC_3700D161F8FB.label = IMG_20231021_112130_00_merged-edit
+panorama_52CDD092_5D1A_2038_41C9_5BC86D1E256F.label = IMG_20231021_112222_00_merged-edit
+panorama_52D4236F_5D06_E0E9_41D4_F6804DE237B3.label = Recepção-4034
+album_8F811E1F_8054_62FC_41D0_D7940D8943E8.label = Álbum de Fotos Diana Pose 02
+
+## Skin
+
+### Button
+Button_A7C4B14E_8D8C_1464_41CD_C3C8113ECA66.label = Atendimento via whatsapp
+Button_E3C38C44_C208_D92E_41A9_1C1D307D0A73.label = Atendimento whatsapp
+Button_E337A4DA_C209_2925_41E3_1109ACE40430.label = fale conosco via whatsapp
+
+### Image
+Image_833AAAAC_8D84_3424_41D7_8C869346423B_mobile.url = skin/Image_833AAAAC_8D84_3424_41D7_8C869346423B_mobile_pt.png
+Image_833AAAAC_8D84_3424_41D7_8C869346423B.url = skin/Image_833AAAAC_8D84_3424_41D7_8C869346423B_pt.png
+Image_93DEFF67_8182_7270_41DD_731C385E4527.url = skin/Image_93DEFF67_8182_7270_41DD_731C385E4527_pt.png
+Image_A7C5514E_8D8C_1464_41D6_CD417EC87F28.url = skin/Image_A7C5514E_8D8C_1464_41D6_CD417EC87F28_pt.png
+Image_AA974A98_8DBB_F4EC_41E0_7211BF414FB6.url = skin/Image_AA974A98_8DBB_F4EC_41E0_7211BF414FB6_pt.png
+Image_AA977A98_8DBB_F4EC_41DD_F46FEB3F2307.url = skin/Image_AA977A98_8DBB_F4EC_41DD_F46FEB3F2307_pt.png
+Image_AAAB3DF5_8DBC_2C24_41CC_C85C4FD7E29F.url = skin/Image_AAAB3DF5_8DBC_2C24_41CC_C85C4FD7E29F_pt.png
+Image_D2F2BD13_C6FC_F8A9_41E2_B7B78CD38638.url = skin/Image_D2F2BD13_C6FC_F8A9_41E2_B7B78CD38638_pt.png
+Image_D2F2FD13_C6FC_F8A9_41D5_7519A5FA438E.url = skin/Image_D2F2FD13_C6FC_F8A9_41D5_7519A5FA438E_pt.png
+Image_D5544340_C6FC_28A7_41DF_654146679043.url = skin/Image_D5544340_C6FC_28A7_41DF_654146679043_pt.png
+
+### Label
+Label_32A66686_230B_F46E_41B9_DD22E13A98AC.text =  Instituto de Psicologia & Especialidades Integradas
+Label_C9FFB8E2_C6DC_196B_41DD_BE5957C7C574.text =  Instituto de Psicologia & Especialidades Integradas
+
+### Multiline Text
+HTMLText_A7D67C21_8D84_73DC_41D1_3290C30E7794.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.341534008683071vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.34vh;font-family:'Bebas Neue Bold';">Lista de fotos :</SPAN></SPAN></DIV></div>
+HTMLText_A7C4A14E_8D8C_1464_41C4_FF4EDA80D573.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.83000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="line-height:119%;text-align:left;font-size:6.740000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#92d2e6;font-size:6.74vh;font-family:'Bebas Neue Bold';">IPEI</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.04vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.4255788313120177vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.43vh;font-family:'Bebas Neue Bold';">Somos um Instituto especializado no tratamento do Autismo e Transtornos do Desenvolvimento Infantil</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.43vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.4255788313120177vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.43vh;font-family:'Bebas Neue Bold';">Atendimento multidisciplinar</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7200000000000033vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>contato: (82) 98102-3740</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_E3C22C43_C208_D92A_41C3_74C7EF7C88E2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.83000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.75vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:3.75vh;font-family:'Bebas Neue Bold';">Instituto de Psicologia e Especialidades Integradas</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.343750000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.34vh;font-family:'Candara';"></SPAN><SPAN STYLE="font-size:2.34vh;font-family:'Candara';">- Somos um Instituto especializado no tratamento do Autismo e Transtornos do Desenvolvimento Infantil.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.34vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.343750000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.34vh;font-family:'Candara';">- Atendimento multidisciplinar.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.343750000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.34vh;font-family:'Arial CYR';"><B>Fale conosco: (82) 98102-3740</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.34vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.34vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_E33724D9_C209_2927_41D0_E68E2611F6C9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.83000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.00000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5vh;font-family:'Bebas Neue Bold';">Chicos Bike</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.500000000000005vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vh;font-family:'Bebas Neue Bold';">A melhor loja de Bicicletas do Guará</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7200000000000033vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>localização:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.343750000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.34vh;font-family:'Bebas Neue Bold';"><B>QI 1 ,bloco A ,loja 22, Guará I, Brasília - DF, 71020-250</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7200000000000033vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>contato: (61)3381-3985</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7200000000000033vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>98623-3328</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7200000000000033vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>Buscamos sua bike em sua residência</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_A56BCC6D_8D84_2C24_4192_FC0733679C5F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562500000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização Paróquia</B></SPAN></SPAN></DIV></div>
+HTMLText_A786D5FA_8D84_1C2D_41BB_D62C4820A56C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.343750000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.34vh;font-family:'Oswald';"><B>LISTA DE FOTOS</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_81DCA975_8D7C_1427_41D7_6674C73E7286.toolTip = ACTIVATE VR MODE (MOBILE ONLY)
+IconButton_81DCA975_8D7C_1427_41D7_6674C73E7286_mobile.toolTip = ACTIVATE VR MODE (MOBILE ONLY)
+IconButton_81DAB979_8D7C_142F_41C6_49F15FE15FF0.toolTip = Localização
+IconButton_81DAE978_8D7C_142D_41B8_C62E14904762_mobile.toolTip = PANORAMA LIST
+IconButton_81DAE978_8D7C_142D_41B8_C62E14904762.toolTip = PANORAMA LIST
+IconButton_9E778C68_8D84_EC2C_41DC_B8A90C02CF95.toolTip = PHOTO ALBUM
+IconButton_81DAF978_8D7C_142D_41CC_7C7BF6831491.toolTip = PHOTO ALBUM
+IconButton_9E778C68_8D84_EC2C_41DC_B8A90C02CF95_mobile.toolTip = PHOTO ALBUM
+IconButton_81DAF978_8D7C_142D_41CC_7C7BF6831491_mobile.toolTip = PHOTO ALBUM
+IconButton_81DAA979_8D7C_142F_41BD_1D49E3D0C179.toolTip = SHOW FLOORPLANS
+IconButton_81DA9978_8D7C_142D_41BE_372F4085D7DD.toolTip = SHOW FLOORPLANS
+IconButton_81DA9978_8D7C_142D_41BE_372F4085D7DD_mobile.toolTip = SHOW FLOORPLANS
+IconButton_81DAB979_8D7C_142F_41C6_49F15FE15FF0_mobile.toolTip = SHOW FLOORPLANS
+
+## Tour
+
+### Description
+
+### Title
+tour.name = IPEI
